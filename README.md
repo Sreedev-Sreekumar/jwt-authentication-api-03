@@ -1,5 +1,6 @@
 # jwt-authentication-api
 # JWT Authentication & Authorization API
+# Internship - Prodigy InfoTech
 
 ## Overview
 This project is a secure REST API built using Node.js, Express.js, MongoDB Atlas, JWT (JSON Web Token), and bcrypt. It provides user registration, login, authentication, and role-based authorization.
